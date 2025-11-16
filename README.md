@@ -34,7 +34,7 @@ Method 1: Step by Step
 git clone https://github.com/zqdev87/king.git
 
 # Step 2: Navigate to the directory
-cd king
+cd ZQripper
 cd ZQ
 
 # Step 3: Run the script
@@ -44,12 +44,12 @@ python3 Zqrip.py
 Method 2: One-Liner Command
 
 ```bash
-git clone https://github.com/zqdev87/king.git && cd king/ZQ && python3 Zqrip.py
+git clone https://github.com/zqdev87/ZQripper.git && cd ZQripper/ZQ && python3 Zqrip.py
 ```
 
 Method 3: Using Python directly
 
 ```bash
 # If you have Python installed, you can run directly:
-python3 -c "$(curl -fsSL https://raw.githubusercontent.com/zqdev87/king/main/ZQ/Zqrip.py)"
+python3 -c "$(curl -fsSL https://raw.githubusercontent.com/zqdev87/ZQripper/main/ZQ/Zqrip.py)"
 ```
