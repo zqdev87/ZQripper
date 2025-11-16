@@ -7,9 +7,9 @@ Unites the most powerful pentesting tools in a user-friendly Python interface - 
 
 :zap: Features
 
-· :tools: 8 Top Cybersecurity Tools integrated
-· :desktop: User-Friendly Menu - No need to memorize commands
-· :rocket: One-Click Execution - Just select and run
+· 8 Top Cybersecurity Tools integrated
+· User-Friendly Menu - No need to memorize commands
+· One-Click Execution - Just select and run
 · :computer: Kali Linux Optimized - Perfect for penetration testing
 · :books: Perfect for Beginners - Ideal for cybersecurity beginners
 
