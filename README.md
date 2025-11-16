@@ -31,7 +31,7 @@ Method 1: Step by Step
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/zqdev87/king.git
+git clone https://github.com/zqdev87/ZQripper.git
 
 # Step 2: Navigate to the directory
 cd ZQripper
